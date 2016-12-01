@@ -1,0 +1,24 @@
+<resources>
+
+    <string name="app_name">App Portfolio</string>
+
+
+    <!-- Portfolio Activity -->
+
+    <string name="portfolio_activity_text_my_nanodegree_apps">My Nanodegree Apps</string>
+
+    <string name="portfolio_activity_button_popular_movies">Popular Movies</string>
+    <string name="portfolio_activity_button_stock_hawk">Stock Hawk</string>
+    <string name="portfolio_activity_button_build_it_bigger">Build it bigger</string>
+    <string name="portfolio_activity_button_make_app_material">Make your app material</string>
+    <string name="portfolio_activity_button_go_ubiquitous">Go ubiquitous</string>
+    <string name="portfolio_activity_button_capstone_my_app">Capstone: My own app</string>
+
+    <string name="portfolio_activity_text_default_toast_message_start">This button will launch my</string>
+    <string name="portfolio_activity_text_default_toast_message_end">project</string>
+
+
+    <!-- End of Portfolio Activity -->
+
+
+</resources>
